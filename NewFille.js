@@ -1,0 +1,5 @@
+function shout (what) {}
+console
+{
+    
+}
